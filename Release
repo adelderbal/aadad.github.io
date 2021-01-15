@@ -1,8 +1,8 @@
-Origin: Snope
-Label: Snope
+Origin: AH4Ma
+Label: AH4Ma
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: a Cydia repo by Snope LY
+Description: a Cydia repo by AH4Ma MLS
